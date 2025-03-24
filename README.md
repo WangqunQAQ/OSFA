@@ -1,17 +1,6 @@
 This repository contains the implementation of the Object-level and Scene-level Feature Aggregation (OSFA) method for scene recognition. 
 The paper has been accepted by Information Fusion.
 
-- [data](#data)
-  - [places365_standard](#places365_standard)
-    - [train](#train)
-    - [val](#train)
-  - [MITIndoor67](#MITIndoor67)
-    - [train](#train)
-    - [val](#train)
-  - [SUN397](#SUN397)
-    - [train](#train)
-    - [val](#train)
-
 @article{wang2025object,
   title={Object-Level and Scene-Level Feature Aggregation with CLIP for scene recognition},
   author={Wang, Qun and Zhu, Feng and Wu, Ge and Zhao, Pengfei and Wang, Jianyu and Li, Xiang},
