@@ -1,1 +1,12 @@
-
+- [data](#data)
+  - [places365_standard](#places365_standard)
+    - [train](#train)
+      - [airport_inside](#airport_inside)
+        - [airport_inside_0001.jpg](#airport_inside_0001.jpg)
+    - [val](#train)
+  - [MITIndoor67](#MITIndoor67)
+    - [train](#train)
+    - [val](#train)
+  - [SUN397](#SUN397)
+    - [train](#train)
+    - [val](#train)
